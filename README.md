@@ -1,4 +1,4 @@
-# Competitive-Programming
+# Competitive-Programming with python
 
 ## Month 1(26 July):
    Understanding the Big O:
