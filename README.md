@@ -1,6 +1,6 @@
 # Competitive-Programming with python
 
-## Month 1(26 July):
+## Month 1:
    Understanding the Big O:
     Example for Understanding - A class have 100 students in which you gave your en to one person. Now for finding out who have youe pen. There are following ways :
   * You go and ask the first person of the class, if he has the pen. Also, you ask this person about other 99 people in the classroom if they have that pen and so on,
