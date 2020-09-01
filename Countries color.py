@@ -34,7 +34,3 @@ if msol:
         print("   " + country.get_name() + ": " + colors[msol[country]])
 else:
     print("No solution found")
-
-# Print solver log
-# print("\nSolver log:")
-# print(msol.get_solver_log())
