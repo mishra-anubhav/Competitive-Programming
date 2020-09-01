@@ -1,9 +1,9 @@
 from docplex.cp.model import CpoModel
 
-# Create CPO model
+
 mdl = CpoModel()
 
-# Create model variables containing colors of the countries
+
 Belgium     = mdl.integer_var(0, 3, "Belgium")
 Denmark     = mdl.integer_var(0, 3, "Denmark")
 France      = mdl.integer_var(0, 3, "France")
